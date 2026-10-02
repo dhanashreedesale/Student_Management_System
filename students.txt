@@ -1,0 +1,30 @@
+STUDENT MANAGEMENT SYSTEM
+=========================
+
+Student ID: STU001
+Name: Dhanashree Desale
+Course: CSE AIML
+Semester: 5
+Email: dpd@example.com
+-------------------------
+
+Student ID: STU002
+Name: Dipika Bhadane
+Course: CSE AIML
+Semester: 5
+Email: dvb@example.com
+-------------------------
+
+Student ID: STU003
+Name: Pritesh Dhulla
+Course: CSE AIML
+Semester: 5
+Email: pkd@example.com
+-------------------------
+
+Student ID: STU004
+Name: Milind Dhangar
+Course: CSE AIML
+Semester: 5
+Email: mdd@example.com
+-------------------------
