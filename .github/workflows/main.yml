@@ -1,0 +1,19 @@
+name: Student Management System CI
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run project check
+        run: |
+          echo "Student Management System"
+          echo "GitHub Actions workflow executed successfully!"
