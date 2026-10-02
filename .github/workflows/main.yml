@@ -3,7 +3,7 @@ name: Student Management System CI
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
